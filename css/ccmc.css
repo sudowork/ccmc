@@ -1,0 +1,17 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  background: #000;
+  color: #FFF;
+}
+
+#tray {
+  width: 20%;
+  min-width: 250px;
+  height: 100%;
+  float: left;
+}
+
+#stage {
+  height: 100%;
+}

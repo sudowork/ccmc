@@ -15,6 +15,11 @@
     "persistent": true
   },
   "options_page": "src/options_custom/index.html",
+  "app": {
+    "launch": {
+      "local_path": "src/app/ccmc.html"
+    }
+  },
   "browser_action": {
     "default_icon": "icons/icon19.png",
     "default_title": "Chromecast Media Center",
